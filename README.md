@@ -1,0 +1,2 @@
+# GoCardAuctionSample
+practice go
